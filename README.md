@@ -17,7 +17,7 @@
 - Graduate of Northeastern University’s **M.S. in Computer Science** program in Vancouver.
 - Previously an R&D Engineer Intern at **Ansys / Synopsys**, working on HPC benchmarking and solver performance.
 - Research across speech AI, multimodal systems, web agent evaluation, RAG, and human-AI interaction.
-- Co-authored **7 research papers**, including 2 first-author publications, with 100+ citations.
+- Co-authored **7 research papers**, including 2 first-author publications, with 170+ citations.
 - Based in Burnaby, Canada; open to relocation.
 
 ## Experience
